@@ -1,3 +1,5 @@
+what is a function and how to define it and some rules 
+
 
 Function is an important concept in math, it is just a mapping, takes an **input** and gives an **output**.
 
