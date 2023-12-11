@@ -77,5 +77,6 @@ but for $5$ it maps $\dfrac{11}{0}$ and this is undefined
 #### Domain issue 
 did you realize for square roots and fractions it is possible to get output complex number or undefined? so this something that you should be aware of it.
 
-
-
+#### Difference Quotient 
+watch this part of [video](https://www.youtube.com/watch?v=p1sGAHulT8w&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=3&t=2130s) for more information 
+It is REALLY important to know this for calculus
