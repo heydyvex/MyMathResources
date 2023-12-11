@@ -1,10 +1,17 @@
 
-Function is an important concept in math, takes and **input** and gives an **output**.
+Function is an important concept in math, it is just a mapping, takes an **input** and gives an **output**.
 
 notation: 
 	$y = f(x)$ or $f(x) = y$  
-	basically are the same such that $x$ is input $f$ is function and $f(x)$ and $y$ are our output.
+	basically are the same such that $x$ is input, $f$ is function and $f(x)$ and $y$ are output.
 	we read like: **f of x** is equal to **y**
+
+$$
+\begin{align}
+&x \in A\newline
+&y \in B\newline
+&f: A \rightarrow B
+\end{align}$$
 
 all a function does that map a *x-value* to *y-value*, on graph $x$ is *x-axis* and $f(x)$ or $y$ is *y-axis*
 $(x, y)$ or $(x, f(x)$
