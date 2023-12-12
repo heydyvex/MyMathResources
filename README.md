@@ -1,1 +1,1 @@
-# math-notes
+# math-note
