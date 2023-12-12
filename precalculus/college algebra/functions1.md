@@ -1,5 +1,9 @@
-what is a function and how to define it and some rules 
+### Introduction to Functions
+Related [video](https://www.youtube.com/watch?v=FkUEsP9efFg&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=2&pp=iAQB)
 
+- what is a function
+- how to define it 
+- rules
 
 Function is an important concept in math, it is just a mapping, takes an **input** and gives an **output**.
 
