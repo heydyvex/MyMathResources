@@ -98,7 +98,7 @@ using vertical line test, this is how:
 
 ![[function and not function.png]]
 
-if you draw a vertical line along the y-axis and vertical line touch more that one point from x-axis, it is not a function, as you see in the picture.
+if you draw a vertical line along the y-axis and vertical line touch more that one point on graph, it is not a function because you're getting two outputs for that, as you see in the picture.
 
 more examples:
 
