@@ -1,5 +1,7 @@
 ### Operations of Functions
 Related [video](https://www.youtube.com/watch?v=7N_-G4usp6Q&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=5&pp=iAQB)
+- how to do operation on functions
+- find set of domain first then evaluate
 
 Let's take look at two functions
 $$
@@ -79,3 +81,29 @@ $$
 (f/g)(x)=\frac{\sqrt{x+3}}{\dfrac{5}{x}}=\frac{x\sqrt{x+3}}{5}\quad D:\{x\mid x\geq-3,x\neq0\}\\[10pt]
 \end{alignat*}
 $$
+### Vertical line test
+Related [video](https://www.youtube.com/watch?v=7j6kh8Z2H90&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=6&pp=iAQB)
+- how to test a function with vertical line test
+
+We use Vertical line test to test a function to determine whether it is a function or not, what do we mean it's a function or not? it means function give us only one output for an input or not.
+
+![[simple-coordinate-plane.png]]
+
+x-axis are inputs and y-axis are outputs, in another word horizontal is for inputs and vertical line for outputs 
+
+![[Horizontal Vertical.png]]
+
+how to test a function to determine whether it is one or not?
+using vertical line test, this is how:
+
+![[function and not function.png]]
+
+if you draw a vertical line along the y-axis and vertical line touch more that one point from x-axis, it is not a function, as you see in the picture.
+
+more examples:
+
+![[Vertical Line Test.jpg]]
+
+![[vertical line test2.jpeg]]
+
+Done!

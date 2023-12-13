@@ -163,3 +163,5 @@ cython_debug/
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 
+# os files
+.DS_store
